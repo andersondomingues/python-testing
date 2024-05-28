@@ -1,4 +1,4 @@
-from src.main import soma, subtracao
+from main import soma, subtracao
 
 def test_soma():
     assert soma(1, 1) == 2
