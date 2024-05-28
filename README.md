@@ -1,3 +1,7 @@
+<a href="https://github.com/tiangolo/fastapi/actions?query=workflow%3ATest+event%3Apush+branch%3Amaster" target="_blank">
+    <img src="https://github.com/tiangolo/fastapi/workflows/Test/badge.svg?event=push&branch=master" alt="Test">
+</a>
+
 # python-testing
 
 - programação
@@ -21,3 +25,4 @@
 - criando a branch no servidor remoto na hora do push `git push --set-upstream origin func_multiplicacao`
 - trocando para a branch main novamente `git checkout main`
 - puxando atualizações do servidor `git pull`
+- adicionando todos os arquivos alterados ao próximo commit `git add -A`
